@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF893B</color>
+    <color name="green">#3BFF89</color>
+    <color name="layout_background">#FF000000</color>
+    <color name="card_background">#893BFF</color>
+    <color name="text_hint">#FFFFFFFF</color>
+    <color name="under_weight">#FFFFC107</color>
+    <color name="normal_weight">#FF4BBF50</color>
+    <color name="over_weight">#FFFF5722</color>
+    <color name="obese">#FFF40E3C</color>
+
+
+
+</resources>
